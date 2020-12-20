@@ -2658,6 +2658,11 @@ preserve@^0.2.0:
   resolved "https://registry.yarnpkg.com/preserve/-/preserve-0.2.0.tgz#815ed1f6ebc65926f865b310c0713bcb3315ce4b"
   integrity sha1-gV7R9uvGWSb4ZbMQwHE7yzMVzks=
 
+prettier-plugin-go-template@^0.0.10:
+  version "0.0.10"
+  resolved "https://registry.yarnpkg.com/prettier-plugin-go-template/-/prettier-plugin-go-template-0.0.10.tgz#0036c4455a24e89a896d6ce8df6c0099e2499048"
+  integrity sha512-TaHPqiMK/zfk+YhvKRf/1WZDgQ6ffnlxJZX5rwphqfxBOVEezZQtYistTB348MKrKnnwKpyXZWpMRo0/KCVB+A==
+
 prettier@>=1.10, prettier@^1.16.4:
   version "1.19.1"
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-1.19.1.tgz"
